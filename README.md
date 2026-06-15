@@ -1,4 +1,4 @@
- 🎓 Student Grade System (Java Swing GUI)
+  🎓 Student Grade System (Java Swing GUI)
 
 A simple and interactive desktop application built with Java Swing that allows users to enter a student’s name and marks, then calculates and displays the corresponding grade with proper validation and error handling.
 
